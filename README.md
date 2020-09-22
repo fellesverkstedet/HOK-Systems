@@ -1,3 +1,5 @@
+![Overview](Hok%20systems%20-%20Overview%20image.JPG)
+
 # HOK-Systems
 Plans for producing a modular workbench with wooden saw horse.
 
