@@ -1,9 +1,10 @@
 ![Overview](Hok%20systems%20-%20Overview%20image.JPG)
 
 # HOK-Systems
+
 Plans for producing a modular workbench with wooden saw horse.
 
-Designed with these basic principles in mind; modular, stackable, material efficient and functional. The worktable sizes are designed to fit onto EUR-palett, with a footprint size of 117 x 77 centimeter. This allows them to be moved around easily in a production or workshop environment.
+Designed with these basic principles in mind; modular, stackable, material efficient and functional. The worktable sizes are designed to fit onto EUR-palett, with a footprint size of 117 x 77 centimeter. The holes on the sides of the worktable are spaced out according to the distance between the forks of a forklift. This allows them to be moved around easily in a production or workshop environment.
 
 The workbench has a grid spacing of 100 mm from center to center with 20mm diameter holes.
 
@@ -22,7 +23,7 @@ For the worktop you will need accesss to a large-scale CNC mill/router, capable 
 
 If you don't have access to such a machine, check out your local FabLab, makerspace or hackerspace! Or find someone to manufacture it for you locally using Fabhub.io directory.
 
-Ready-to-use cutsheet geometry for is included, but you will need to set up the toolpaths yourself using the CAM software for your machine.
+Ready-to-use cutsheet geometry for the worktop is included, but you will need to set up the toolpaths yourself using the CAM software for your machine.
 
 For the saw horses you'll need some woodworking experience and access to woodworking machines such as a table saw and a planer.
 
